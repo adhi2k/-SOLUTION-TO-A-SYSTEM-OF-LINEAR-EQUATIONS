@@ -15,14 +15,13 @@ Using the np.linalg.solve(), we can find the solutions.
 End the program
 ## Program:
 ```
-#Program to find the solution in the given linear equation
-#Program developed by: Adhithya K
-#REference number: 2305002001
-
+#Program to find the solution for the given linear equations.
+#Developed by: Adhithya K
+#RegisterNumber:2305002001
 import numpy as np
-a=np.array([[5,-3,-10],[2,2,-3],[-3,-1,5]])
-b=np.array([-9,4,-1])
-le=np.linalg.solve(a,b)
+A = np.array([[5,-3,-10],[2,2,-3],[-3,-1,5]])
+B = np.array([-9,4,-1])
+le = np.linalg.solve(A,B)
 print(le)
 
 ```
