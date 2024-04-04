@@ -27,7 +27,8 @@ print(le)
 
 ```
 ## Output
-![output](<solution ss 2.png>):
+![image](https://github.com/adhi2k/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/145216997/a0dd0b33-43a9-4a78-b229-0afa6f2b1ee5)
+
 
 
 
